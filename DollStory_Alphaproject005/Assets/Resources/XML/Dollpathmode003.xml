@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Tiles>
+		<Number>1</Number>
+		<Theme>BabyRoom</Theme>
+		<Name>블록레고</Name>
+		<Obstacle>no</Obstacle>
+		<Rate>50</Rate>
+	</Tiles>
+	<Tiles>
+		<Number>2</Number>
+		<Theme>ToyRoom</Theme>
+		<Name>블록로봇</Name>
+		<Obstacle>no</Obstacle>
+		<Rate>500</Rate>
+	</Tiles>
+	<Tiles>
+		<Number>3</Number>
+		<Theme>BabyRoom</Theme>
+		<Name>블록장식</Name>
+		<Obstacle>no</Obstacle>
+		<Rate>50</Rate>
+	</Tiles>
+	<Tiles>
+		<Number>4</Number>
+		<Theme>BabyRoom</Theme>
+		<Name>블록지렁</Name>
+		<Obstacle>no</Obstacle>
+		<Rate>50</Rate>
+	</Tiles>
+	<Tiles>
+		<Number>5</Number>
+		<Theme>BabyRoom</Theme>
+		<Name>블록마이</Name>
+		<Obstacle>no</Obstacle>
+		<Rate>50</Rate>
+	</Tiles>
+	<Tiles>
+		<Number>6</Number>
+		<Theme>BabyRoom</Theme>
+		<Name>장식레고</Name>
+		<Obstacle>no</Obstacle>
+		<Rate>50</Rate>
+	</Tiles>
+	
+</root>
